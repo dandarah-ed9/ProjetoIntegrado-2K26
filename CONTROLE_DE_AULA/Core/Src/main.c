@@ -239,7 +239,7 @@ int main(void)
 	  					    }
 	  				 }
 	  				 else if (LE_BOTAO3 == 0){
-	  					    if(saidaalunos > 0 && presencaalunos > 0){
+	  					    if(saidaalunos > 0){
 	  					        saidaalunos--;
 	  					        presencaalunos++;
 	  					    }
